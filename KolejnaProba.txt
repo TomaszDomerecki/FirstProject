@@ -3,3 +3,5 @@ kKolejna proba z GITem
 Tym razem sie sciagnie.
 
 Ciekawe czy tym razem zadziala
+
+halo
